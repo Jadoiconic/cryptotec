@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+app{
+  background: rgb(0,0,0);
+}
+.main{
+  background-image: url('./images/globe.jpg');
+  background-size:100%;
+  background-repeat: no-repeat;
+  width: cover;
+  min-height: 90vh;
+}
+.main h1{
+  color: aliceblue;
+}
