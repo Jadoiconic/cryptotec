@@ -1,17 +1,17 @@
 export const MenuItems = [
     {
         title:'Sign In',
-        url:'/signup',
+        url:'./signup',
         cName:'nav-links-mobile btn btn-success py-0 px-3'
     },
     {
         title:'About',
-        url:'/about',
+        url:'./about',
         cName:'nav-links'
     },
     {
         title:'Services',
-        url:'/services',
+        url:'./services',
         cName:'nav-links'
     },
     {
@@ -22,12 +22,12 @@ export const MenuItems = [
     
   {
         title:'home',
-        url:'/',
+        url:'./',
         cName:'nav-links'
     },
     {
         title:'Sign In',
-        url:'/signup',
+        url:'./signup',
         cName:'nav-links-medium btn btn-success'
     },
     
