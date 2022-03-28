@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cryptotec/static/css/main.18a3fdff.css",
+    "main.js": "/cryptotec/static/js/main.0837d7c1.js",
+    "static/media/globe.jpg": "/cryptotec/static/media/globe.b45ce891b9d40ed33db6.jpg",
+    "static/media/hosting.png": "/cryptotec/static/media/hosting.743f71ccaebe759f7752.png",
+    "index.html": "/cryptotec/index.html",
+    "main.18a3fdff.css.map": "/cryptotec/static/css/main.18a3fdff.css.map",
+    "main.0837d7c1.js.map": "/cryptotec/static/js/main.0837d7c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18a3fdff.css",
+    "static/js/main.0837d7c1.js"
+  ]
+}
