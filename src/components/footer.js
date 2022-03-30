@@ -39,7 +39,7 @@ export default function Footer() {
         </div>
         <div className='col-md-3 col-sm-12 col-xl-3'>
             <h5 className='text-primary'>Help and support</h5><hr />
-            <div className='form-goup mx-auto'>
+            <div className='form-goup mx-auto row col-sm-4 col-md-12'>
                 <input placeholder='Your name' className='form-control mb-1' />
                 <input placeholder='Your Email' className='form-control mb-2'/>
                 <textarea className='form control mb-1' cols='30'placeholder='your suggestion here '/>
